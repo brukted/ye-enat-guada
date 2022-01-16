@@ -16,3 +16,6 @@ Team Members:
 - Bruk Tedla  biruk.tedla93@gmail.com +251980575744  
 - Biruk Tassew biruktassew21@gmail.com
 - Bisrat Walle bisratwalle3@gmail.com +251918221944         
+- Abdulaziz Ali s9uidward@gmail.com +251982682879
+- Petros Beyene petrosbeyene611@gmail.com +251932512911
+- Habtamu 
