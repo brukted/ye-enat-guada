@@ -1,0 +1,4 @@
+[submodule "ye-enat-guada-frontend"]
+	path = ye-enat-guada-frontend
+	url = https://github.com/brukted/ye-enat-guada-frontend.git
+	branch = main
