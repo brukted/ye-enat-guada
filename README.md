@@ -12,10 +12,11 @@ Some path parameters have been changed, we will update them soon in the docs.
 
 
 Team Members:
-- Hailemariam Arega     haileformal@gmail.com     +251985679322
+- Hailemariam Arega haileformal@gmail.com +251985679322
 - Bruk Tedla  biruk.tedla93@gmail.com +251980575744  
-- Biruk Tassew biruktassew21@gmail.com
+- Biruk Tassew biruktassew21@gmail.com +251974079317
 - Bisrat Walle bisratwalle3@gmail.com +251918221944         
 - Abdulaziz Ali s9uidward@gmail.com +251982682879
 - Petros Beyene petrosbeyene611@gmail.com +251932512911
-- Habtamu 
+- Habtamu Tsegaye habtetsagaye19@gmail.com +251949329587
+- Gadisa Amenu amegadbay@gmail.com +251988622329
